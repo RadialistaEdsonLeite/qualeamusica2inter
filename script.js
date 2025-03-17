@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
       song:
         "https://radialistaedsonleite.github.io/qualeamusica2inter/AloneAgainNaturally-GilbertOSullivan.mp3",
       correct: "Alone Again Naturally",
-      options: ["You needed me", "My way", "Do you wanna dance?", "Alone Again Naturally"]
+      options: ["You needed me", "My way", "Do you wanna dance?", "Alone Again (Naturally)"]
     },
     {
       song:
@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
       correct: "Mamy Blue",
       options: [
         "Rainbow",
-        "I feel love",
+        "I Feel Love",
         "Mamy Blue",
         "Please Mr Postman"]
     },
@@ -83,7 +83,7 @@ document.addEventListener("DOMContentLoaded", () => {
       options: [
         "Blue Moon",
         "Serenade to Cripton",
-        "Rain Rain Rain",
+        "Rain rain rain",
         "My love for you"
       ]
     },

@@ -4,9 +4,9 @@ document.addEventListener("DOMContentLoaded", () => {
   const questions = [
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica2inter/AintNoMountainHighEnough-MarvinGaye_TammiTerrell.mp3",
-      correct: "Aint No Mountain High Enough",
-      options: ["UM", "DOIS", "Aint No Mountain High Enough", "QUATRO"]
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/RockAndRollLullaby-BJThomas",
+      correct: "Rock And Roll Lullaby",
+      options: ["UM", "DOIS", "Rock And Roll Lullaby", "QUATRO"]
     },
     {
       song:

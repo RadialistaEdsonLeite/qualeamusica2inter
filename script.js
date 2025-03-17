@@ -6,23 +6,23 @@ document.addEventListener("DOMContentLoaded", () => {
       song:
         "https://radialistaedsonleite.github.io/qualeamusica2inter/RockAndRollLullaby-BJThomas.mp3",
       correct: "Rock And Roll Lullaby",
-      options: ["UM", "DOIS", "Rock And Roll Lullaby", "QUATRO"]
+      options: ["Bridge Over Troubled Water", "I Am Woman", "Rock And Roll Lullaby", "Take Me Home, Country Roads"]
     },
     {
       song:
         "https://radialistaedsonleite.github.io/qualeamusica2inter/AloneAgainNaturally-GilbertOSullivan.mp3",
       correct: "Alone Again Naturally",
-      options: ["Magg", "My Sw", "I N", "Alone Again Naturally"]
+      options: ["You needed me", "My way", "Do you wanna dance?", "Alone Again Naturally"]
     },
     {
       song:
         "https://radialistaedsonleite.github.io/qualeamusica2inter/AmericanPie-DonMcLean.mp3",
       correct: "American Pie",
       options: [
-        "DFASDF",
-        "5",
+        "Let’s Stay Together",
+        "Daniel",
         "American Pie",
-        "HGH"
+        "Living for the City"
       ]
     },
     {
@@ -31,9 +31,9 @@ document.addEventListener("DOMContentLoaded", () => {
       correct: "Angie",
       options: [
         "Angie",
-        "FDGS",
-        "JGFJ",
-        "Face"
+        "Goodbye Yellow Brick Road",
+        "Angel Of Mine",
+        "My Faces"
       ]
     },
     {
@@ -41,10 +41,10 @@ document.addEventListener("DOMContentLoaded", () => {
         "https://radialistaedsonleite.github.io/qualeamusica2inter/AnotherBrickintheWall-PinkFloyd.mp3",
       correct: "Another Brick in the Wall",
       options: [
-        "HGJD",
+        "Living for the City",
         "Another Brick in the Wall",
-        "TYK",
-        "JHGJ"
+        "The Way We Were",
+        "I Shot the Sheriff"
       ]
     },
     {
@@ -52,10 +52,10 @@ document.addEventListener("DOMContentLoaded", () => {
         "https://radialistaedsonleite.github.io/qualeamusica2inter/BabyILoveYourWay-PeterFrampton.mp3",
       correct: "Baby I Love Your Way",
       options: [
-        "HFD",
-        "FDS",
+        "Rock Your Baby",
+        "Can’t Get Enough of Your Love, Babe  ",
         "Baby I Love Your Way",
-        "GFDFG"
+        "If I Can’t Have You"
       ]
     },
 
@@ -63,7 +63,7 @@ document.addEventListener("DOMContentLoaded", () => {
       song:
         "https://radialistaedsonleite.github.io/qualeamusica2inter/BadMoonRising-CreedenceClearwaterRevival.mp3",
       correct: "Bad Moon Rising",
-      options: ["FDG", "Bad Moon Rising", "FDSFDS", "DFASD"]
+      options: ["The Joker", "Bad Moon Rising", "Band on the Run", "If I Can’t Have You"]
     },
 
     {
@@ -71,31 +71,31 @@ document.addEventListener("DOMContentLoaded", () => {
         "https://radialistaedsonleite.github.io/qualeamusica2inter/MamyBlue-RickyShayne.mp3",
       correct: "Mamy Blue",
       options: [
-        "ToGFFDGDFGro",
-        "Chame",
+        "Rainbow",
+        "I feel love",
         "Mamy Blue",
-        "FSD"]
+        "Please Mr Postman"]
     },
     {
       song:
         "https://radialistaedsonleite.github.io/qualeamusica2inter/RainRainRain-SimonButterfly.mp3",
       correct: "Rain Rain Rain",
       options: [
-        "DFSD",
-        "FDDFASD",
+        "Blue Moon",
+        "Serenade to Cripton",
         "Rain Rain Rain",
-        "RTEJKGF"
+        "My love for you"
       ]
     },
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica2inter/skylinepigeon_eltonjhon.mp3",
-      correct: "skyline pigeon",
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/skylinepigeon_eltonjohn.mp3",
+      correct: "Skyline Pigeon",
       options: [
-        "FGDF",
-        "HGFH",
-        "GF",
-        "skyline pigeon"
+        "I Will Survive",
+        "Stayin' Alive",
+        "More Than a Woman",
+        "Skyline Pigeon"
       ]
     }
 
@@ -104,18 +104,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Descrições das músicas
   const descriptions = [
-    "Don't Let Me Down – The Hollies (1969): Escrita por Tony Hicks, Allan Clarke e Terry Sylvester, essa música é um dos clássicos da banda, mas não deve ser confundida com a famosa canção dos Beatles com o mesmo nome.",
-    "I Never Cry – Alice Cooper (1976): Alice Cooper escreveu essa balada emocional sobre sua luta contra o alcoolismo. Diferente de seu estilo chocante habitual, essa música é uma das mais sentimentais de sua carreira.",
-    "I Started a Joke – Bee Gees (1968): Robin Gibb revelou que a inspiração para essa música veio durante um voo de avião. A letra melancólica e introspectiva fez dela um dos maiores sucessos da banda.",
-    "It's a Heartache – Bonnie Tyler (1977):🔹 Essa música foi um grande sucesso global, mas poucos sabem que Bonnie Tyler gravou sua versão enquanto se recuperava de uma cirurgia nas cordas vocais, o que deu um toque ainda mais rouco à sua voz.",
-    "Love Hurts – Nazareth (1975):🔹 Originalmente gravada pelos Everly Brothers em 1960, a versão do Nazareth se tornou a mais famosa e um hino das baladas de rock.",
-    "Mississippi – Pussycat (1975):🔹 O grupo holandês Pussycat alcançou o topo das paradas em vários países com essa música. Curiosamente, a melodia lembra o estilo country americano, mesmo sendo composta na Europa.",
-    "Sailing – Rod Stewart (1975):🔹 Embora seja um dos maiores sucessos de Rod Stewart, a música foi originalmente gravada pela banda The Sutherland Brothers em 1972. A versão de Stewart a transformou em um hit mundial.",
-    "Tornerò – I Santo California (1975):🔹 Esse clássico romântico italiano se tornou um fenômeno na Europa e América Latina, sendo uma das músicas mais regravadas da época.",
-    "Wuthering Heights – Kate Bush (1978):🔹 Inspirada no livro homônimo de Emily Brontë, Kate Bush escreveu a música aos 18 anos e se tornou a primeira mulher a alcançar o topo das paradas britânicas com uma composição própria.",
-    "My Mistake – Pholhas (1974):🔹 Embora a banda Pholhas seja brasileira, suas músicas são cantadas em inglês, e 'My Mistake' fez tanto sucesso que muitas pessoas achavam que o grupo era estrangeiro.",
-    "",
-    "Skyline Pigeon – Elton John (1969):🔹 Foi uma das primeiras músicas compostas por Elton John e Bernie Taupin. Ele mesmo considera essa uma de suas melhores composições dos primeiros anos de carreira."
+    "B. J. Thomas. Lançada em 1972, é uma das baladas mais emocionantes do rock/pop da época. A música tem uma melodia suave e nostálgica, com um arranjo que mistura o rock clássico com elementos de gospel e doo-wop. A letra conta a história de um menino criado por uma mãe solteira, que encontra conforto nas canções de ninar que ela cantava para ele.",
+    "Gilbert O'Sullivan (1972): Uma balada melancólica e introspectiva que aborda temas de solidão e perda, com uma melodia suave contrastando com a letra triste. A interpretação sincera de Gilbert O’Sullivan fez dela um grande sucesso nos anos 70.",
+    "Don McLean (1971): Uma das composições mais emblemáticas da música folk-rock, American Pie é um épico de oito minutos que faz referências enigmáticas à cultura americana e à tragédia do The Day the Music Died (a morte de Buddy Holly, Ritchie Valens e Big Bopper em 1959).",
+    "The Rolling Stones (1973):  Uma das baladas mais famosas dos Rolling Stones, Angie tem uma melodia delicada e emotiva, com um solo de guitarra inesquecível e a interpretação melancólica de Mick Jagger. Embora haja especulações sobre a inspiração da música, Keith Richards afirmou que o nome foi escolhido aleatoriamente.",
+    "Pink Floyd (1979): Um dos maiores sucessos do Pink Floyd, essa música faz parte do álbum The Wall e critica o sistema educacional rígido e opressor. A icônica linha We don’t need no education virou um hino de rebeldia, impulsionado pelo uso inovador de um coral infantil.",
+    "Peter Frampton (1975): Uma das músicas mais românticas da década de 70, com uma melodia envolvente e a voz suave de Peter Frampton. Lançada no álbum Frampton Comes Alive!, se tornou uma das canções mais pedidas em rádios e regravada diversas vezes ao longo dos anos.",
+    "Creedence Clearwater Revival (1969):  Um rock enérgico e cativante, apesar de sua letra sombria que fala sobre presságios de destruição. A interpretação marcante de John Fogerty e o ritmo acelerado fizeram dessa canção um clássico do rock.",
+    "Simon Butterfly (1973):  Uma canção nostálgica e sentimental que se destacou na década de 70. Seu tom melancólico e melodia suave fizeram dela uma das músicas queridas pelos ouvintes da época, embora Simon Butterfly tenha sido um artista de poucos sucessos.",
+    "Ricky Shayne: Esta música foi originalmente composta pelo francês Hubert Giraud e gravada pela banda espanhola Pop-Tops, mas ganhou versões em vários idiomas e intérpretes diferentes. Uma das mais conhecidas foi a do cantor Ricky Shayne, que lançou sua versão em alemão e inglês, tornando a canção um grande sucesso na Europa.",
+    "Elton John (1969): Essa bela canção, presente no álbum Empty Sky (1969), foi uma das primeiras composições de sucesso da parceria entre Elton John e Bernie Taupin. A música fala sobre liberdade e o desejo de voar para longe, usando a metáfora de um pombo no céu. Curiosidade: Elton John gravou duas versões dessa música. A mais conhecida é a de 1973, regravada com um arranjo emocionante no piano (em vez do cravo usado na versão original)."
     // Adicione as descrições das músicas aqui
     // ...
   ];
@@ -192,11 +190,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const q = questions[currentQuestionIndex - 1]; // Última pergunta
 
     let commentsHTML = "";
-    for (let i = 0; i < questions.length; i++) {
-      commentsHTML += `<p><strong>Comentário sobre a música ${
-        i + 1
-      }:</strong> ${descriptions[i]}</p>`;
-    }
+for (let i = 0; i < questions.length; i++) {
+  commentsHTML += `<p><strong>Sobre "${questions[i].correct}":</strong> ${descriptions[i]}</p>`;
+}
 
     // Atualizando a tela final com a pontuação
     finalScreen.innerHTML = `

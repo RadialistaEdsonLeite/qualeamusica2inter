@@ -5,93 +5,97 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       song:
         "https://radialistaedsonleite.github.io/qualeamusica2inter/AintNoMountainHighEnough-MarvinGaye_TammiTerrell.mp3",
-      correct: "Don't Let Me Down",
-      options: ["Let It Be", "American Pie", "Don't Let Me Down", "Imagine"]
+      correct: "Aint No Mountain High Enough",
+      options: ["UM", "DOIS", "Aint No Mountain High Enough", "QUATRO"]
     },
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica1inter/INeverCry_AliceCooper.mp3",
-      correct: "I Never Cry",
-      options: ["Maggie May", "My Sweet Lord", "I Never Cry", "What's Going On"]
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/AloneAgainNaturally-GilbertOSullivan.mp3",
+      correct: "Alone Again Naturally",
+      options: ["Magg", "My Sw", "I N", "Alone Again Naturally"]
     },
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica1inter/IStartedAJoke_BeeGees.mp3",
-      correct: "I StartedA Joke",
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/AmericanPie-DonMcLean.mp3",
+      correct: "American Pie",
       options: [
-        "Stairway to Heaven",
-        "I StartedA Joke",
-        "I Can See Clearly Now",
-        "Superstition"
+        "DFASDF",
+        "5",
+        "American Pie",
+        "HGH"
       ]
     },
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica1inter/ItsAHeartache_BonnieTyler.mp3",
-      correct: "It's A Heartache",
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/Angie-TheRollingStones.mp3",
+      correct: "Angie",
       options: [
-        "Lean on Me",
-        "Rocket Man",
-        "It's A Heartache",
-        "The First Time Ever I Saw Your Face"
+        "Angie",
+        "FDGS",
+        "JGFJ",
+        "Face"
       ]
     },
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica1inter/LovesHurts-Nazareth.mp3",
-      correct: "Loves Hurts",
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/AnotherBrickintheWall-PinkFloyd.mp3",
+      correct: "Another Brick in the Wall",
       options: [
-        "Loves Hurts",
-        "Lady Madonna",
-        "Knock Three Times",
-        "Bridge Over Troubled Water"
+        "HGJD",
+        "Another Brick in the Wall",
+        "TYK",
+        "JHGJ"
       ]
     },
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica1inter/Mississippi_Pussicat.mp3",
-      correct: "Mississippi",
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/BabyILoveYourWay-PeterFrampton.mp3",
+      correct: "Baby I Love Your Way",
       options: [
-        "I Am Woman",
-        "Take Me Home",
-        "Let’s Stay Together",
-        "Mississippi"
+        "HFD",
+        "FDS",
+        "Baby I Love Your Way",
+        "GFDFG"
       ]
     },
 
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica1inter/Sailing_RodStewart.mp3",
-      correct: "Sailing",
-      options: ["Daniel", "Angie", "Sailing", "Goodbye Yellow Brick Road"]
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/BadMoonRising-CreedenceClearwaterRevival.mp3",
+      correct: "Bad Moon Rising",
+      options: ["FDG", "Bad Moon Rising", "FDSFDS", "DFASD"]
     },
 
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica1inter/Tornero_ISantoCalifornia.mp3",
-      correct: "Tornero",
-      options: ["Tornero", "Champagne", "Ti scrivero", "Bella Senz'Anima"]
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/MamyBlue-RickyShayne.mp3",
+      correct: "Mamy Blue",
+      options: [
+        "ToGFFDGDFGro",
+        "Chame",
+        "Mamy Blue",
+        "FSD"]
     },
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica1inter/WutheringHeights_KateBush.mp3",
-      correct: "Wuthering Heights",
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/RainRainRain-SimonButterfly.mp3",
+      correct: "Rain Rain Rain",
       options: [
-        "Living for the City",
-        "Bennie and the Jets",
-        "The Way We Were",
-        "Wuthering Heights"
+        "DFSD",
+        "FDDFASD",
+        "Rain Rain Rain",
+        "RTEJKGF"
       ]
     },
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica1inter/mymistake_pholhas.mp3",
-      correct: "My Mystake",
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/skylinepigeon_eltonjhon.mp3",
+      correct: "skyline pigeon",
       options: [
-        "I Shot the Sheriff",
-        "My Mystake",
-        "Rock Your Baby",
-        "If I Can’t Have You "
+        "FGDF",
+        "HGFH",
+        "GF",
+        "skyline pigeon"
       ]
     }
 

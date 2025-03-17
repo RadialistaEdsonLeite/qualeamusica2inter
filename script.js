@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const questions = [
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica1inter/DontLetMeDown_TheHollies.mp3",
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/AintNoMountainHighEnough-MarvinGaye_TammiTerrell.mp3",
       correct: "Don't Let Me Down",
       options: ["Let It Be", "American Pie", "Don't Let Me Down", "Imagine"]
     },

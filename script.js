@@ -224,7 +224,7 @@ for (let i = 0; i < questions.length; i++) {
   }
   function exitGame() {
     const newUrl = `https://radialistaedsonleite.github.io/jogos-HTML/?score=${score}`;
-    alert("Obrigado por jogar! Até a próxima! 🎶");
+    alert("Volte sempre! Até a próxima! 🎶");
     window.location.href = "https://radialistaedsonleite.github.io/jogos-HTML/";
   }
 

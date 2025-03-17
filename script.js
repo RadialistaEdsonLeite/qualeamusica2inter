@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const questions = [
     {
       song:
-        "https://radialistaedsonleite.github.io/qualeamusica2inter/RockAndRollLullaby-BJThomas",
+        "https://radialistaedsonleite.github.io/qualeamusica2inter/RockAndRollLullaby-BJThomas.mp3",
       correct: "Rock And Roll Lullaby",
       options: ["UM", "DOIS", "Rock And Roll Lullaby", "QUATRO"]
     },
